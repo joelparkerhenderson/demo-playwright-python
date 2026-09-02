@@ -1,0 +1,11 @@
+# AGENTS.md
+
+This repo is a small Playwright walkthrough demo, written in Python, that launches Chromium, navigates to https://testingexamples.github.io, and demonstrates five ways to locate elements plus four form interactions, logging what it finds at each step.
+
+`spec/index.md` is the single source of truth for the exact scenario this demo walks through: the target URL, every selector/locator used, and the expected values. If the code in `src/demo.py` and `spec/index.md` ever disagree, that is a defect in one of them — fix it before doing anything else.
+
+For how to install dependencies and run the script, see README.md's Install and Run sections; this file does not duplicate them.
+
+Non-negotiable: do not add new locator strategies or form interactions to `src/demo.py` without updating `spec/index.md` first, in the same change.
+
+CLAUDE.md is a pointer to this file — it is the single source of truth for agent instructions.

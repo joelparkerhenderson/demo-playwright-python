@@ -1,0 +1,18 @@
+# Demo Playwright Python
+
+> A small Python walkthrough demo that uses Playwright to launch Chromium, navigate to testingexamples.github.io, and demonstrate locator strategies and form interactions.
+
+## Docs
+
+- [README](README.md): Install and run instructions.
+- [Spec](spec/index.md): The exact scenario this demo walks through - target URL, every locator, every form interaction.
+- [Agent instructions](AGENTS.md): Source-of-truth pointer and non-negotiables for agents working on this repo.
+- [Citation](CITATION.cff): How to cite this software.
+
+## Source
+
+- [demo.py](src/demo.py): The Playwright walkthrough script itself.
+
+## Optional
+
+- [Live site under test](https://testingexamples.github.io): The public page the demo automates.

@@ -6,6 +6,8 @@ Demonstration of:
 * [Python](https://www.python.org/) programming language
 * [Chromium](https://www.chromium.org/) open source web browser
 
+The exact scenario this demo walks through (target URL, locators, form interactions) is specified in [spec/index.md](spec/index.md); the code and spec must agree.
+
 ## Install
 
 ### Install Python
