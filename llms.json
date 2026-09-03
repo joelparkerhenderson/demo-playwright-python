@@ -2,7 +2,7 @@
   "name": "demo-playwright-python",
   "summary": "A small Python walkthrough demo that uses Playwright to launch Chromium, navigate to testingexamples.github.io, and demonstrate locator strategies and form interactions.",
   "description": "Demonstration of Playwright browser automation using Python, launching Chromium to navigate to https://testingexamples.github.io and demonstrate locating elements by id, name, class, link text, and XPath, then filling a text input, checking a checkbox, checking a radio button, and selecting an option in a select element.",
-  "repository": "https://github.com/testingexamples/demo-playwright-python",
+  "repository": "https://github.com/joelparkerhenderson/demo-playwright-python",
   "license": "GPL-2.0-or-later",
   "sections": [
     {

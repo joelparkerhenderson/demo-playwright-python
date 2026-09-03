@@ -14,7 +14,7 @@ identifiers:
   - type: url
     value: 'https://github.com/joelparkerhenderson/demo-playwright-python/'
     description: Demo Playwright Python
-repository-code: 'https://github.com/testingexamples/demo-playwright-python/'
+repository-code: 'https://github.com/joelparkerhenderson/demo-playwright-python/'
 abstract: >-
   Demo Playwright Python
 license: See license file
